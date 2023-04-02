@@ -1,0 +1,14 @@
+[
+  {
+    "name": "project1",
+    "live": "https://rezwanatechprofile.github.io/Minipoly/",
+    "git": "https://github.com/rezwanatechProfile/Minipoly.git",
+    "image": "https://github.com/rezwanatechProfile/Porfolio-of-Rezwana/blob/main/img/monoploy.jpg?raw=true"
+  },
+  {
+    "name": "project2",
+    "live": "https://godrivecarrental.herokuapp.com/",
+    "git": "https://github.com/rezwanatechProfile/GoDrive.git",
+    "image": "https://github.com/rezwanatechProfile/Porfolio-of-Rezwana/blob/main/img/car.jpg?raw=true"
+  }
+]
